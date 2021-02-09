@@ -1,4 +1,7 @@
-# real-world-vue
+# events-2-b
+
+An app that lists fake events to better the world.
+For learning purposes.
 
 ## Project setup
 
@@ -27,7 +30,3 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# Events2B
-
-Fake DB for my-json-server
