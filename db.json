@@ -1,7 +1,17 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 149,
+      "category": "recycling",
+      "title": "Equipment recycling day",
+      "description": "Bring your used equipment back to the store",
+      "location": "The Gadget Zone",
+      "date": "April 15, 2021",
+      "time": "10:00",
+      "organizer": "Mat Husalem"
+    },
+    {
+      "id": 223,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
