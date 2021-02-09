@@ -2,6 +2,9 @@
 
 An app that lists fake events to better the world.
 For learning purposes.
+This project is hosted by **[render](https://render.com/)**
+
+See live project **[here](https://events2b.onrender.com/)**
 
 ## Project setup
 
